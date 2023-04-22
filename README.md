@@ -8,8 +8,4 @@ This project has been made as a part of internship program offered by @AscentAca
 
 Demo Pictures of the Site:-
 
-!(https://user-images.githubusercontent.com/91446639/233798007-038f7b35-0ccc-4770-8269-00aeb561e266.png)
-
-
-
 ![MEMEPAGE](https://user-images.githubusercontent.com/91446639/233798029-a1474606-a691-41eb-9d60-5a6d3d11cc36.png)
